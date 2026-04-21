@@ -2,9 +2,7 @@
 
 An interactive, dark-themed analytics dashboard for Premier League team shooting performance in the 2025/26 season. Built with [Plotly Dash](https://dash.plotly.com/) and styled as a modern single-page app.
 
-![Preview](docs/preview.png)
-
-> Replace `docs/preview.png` with a screenshot of the running dashboard once you take one.
+![Preview](preview.png)
 
 ## Features
 
