@@ -102,6 +102,3 @@ Two additional metrics are derived in-app:
 - Persist user selections in the URL for shareable views.
 - Deploy to Render / Fly.io with a live demo link.
 
-## License
-
-Released under the [MIT License](LICENSE).
